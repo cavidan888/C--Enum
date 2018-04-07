@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\c#\Enum\bin\Debug\C_SharpEnum.exe.config
+C:\Users\user\Desktop\c#\Enum\bin\Debug\C_SharpEnum.exe
+C:\Users\user\Desktop\c#\Enum\bin\Debug\C_SharpEnum.pdb
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.Form1.resources
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.Properties.Resources.resources
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.exe
+C:\Users\user\Desktop\c#\Enum\obj\Debug\C_SharpEnum.pdb
